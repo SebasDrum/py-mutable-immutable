@@ -1,4 +1,5 @@
-# I have read the guideline: https://github.com/mate-academy/py-task-guideline/blob/main/README.md
+# I have read the guideline
+# https://github.com/mate-academy/py-task-guideline/blob/main/README.md
 lucky_number = 777
 pi = 3.14
 one_is_a_prime_number = False
